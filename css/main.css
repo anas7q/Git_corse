@@ -1,0 +1,10 @@
+/* dot: because identfied the class*/
+.my-p {
+    color: rgb(154, 5, 5);
+    font-size: 40px;
+  }
+/* #: because identfied any cracter */
+#my-p {
+    color: red;
+    font-size: 40px;
+  }
