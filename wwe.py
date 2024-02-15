@@ -13,7 +13,6 @@ Q2B107
 stro=input("enter the str to know how vowels :")
 vowel="aeiou"
 vowel2="AEIOU"
-2xcs
 count=0
 for i in stro:
   if i in vowel or i in vowel2:
